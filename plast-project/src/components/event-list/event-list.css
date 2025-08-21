@@ -1,0 +1,8 @@
+.event-list-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 50px;
+    padding: 50px;
+    align-items: center;
+}

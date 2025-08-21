@@ -1,0 +1,16 @@
+.event-page-wrapper {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.event-page-wrapper img {
+    width: 100%;
+}
+
+.event-page-wrapper p {
+    text-align: justify;
+    margin-top: 0px;
+    padding: 0px;
+    background-color: black;
+}
