@@ -14,6 +14,6 @@ app.use('/event', eventRouter);
 app.use('/annouced', annoucedRouter);
 
 app.listen(PORT, () => {
-    console.log("Сервер прослуховується")
+    console.log("Порт прослуховується")
 })
 
